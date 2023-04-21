@@ -18,8 +18,8 @@ This is a simple Flask API that provides exchange rate information using data fr
 
 Clone the repository:
 
-`bash
-git clone https://github.com/yourusername/exchange-rate-api.git
+`bash:
+git clone https://github.com/Erickarius/Exchange-Rate-Api.git
 cd exchange-rate-api`
 
 Install the required packages:
