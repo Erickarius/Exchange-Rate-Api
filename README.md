@@ -38,7 +38,7 @@ This will start the server on port 5000.
 
 To test the API, you can use curl or any HTTP client of your choice. For example:
 
-`bash
+`bash:
 curl http://localhost:5000/exchanges/USD/2022-01-01`
 
 This will return the exchange rate for USD on January 1st, 2022.
