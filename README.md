@@ -31,7 +31,7 @@ pip install -r requirements.txt`
 
 To start the server, run the following command:
 
-`bash:
+`cmd:
 python app.py`
 
 This will start the server on port 5000.
