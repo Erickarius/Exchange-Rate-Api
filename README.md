@@ -22,7 +22,7 @@ Clone the repository:
 git clone https://github.com/Erickarius/Exchange-Rate-Api.git`
 
 `bash: 
-cd exchange-rate-api`
+cd Exchange-Rate-Api`
 
 Install the required packages:
 
