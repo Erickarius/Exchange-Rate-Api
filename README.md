@@ -41,4 +41,4 @@ To test the API, you can use curl or any HTTP client of your choice. For example
 `bash:
 curl http://localhost:5000/exchanges/EUR/2022-04-21`
 
-This will return the exchange rate for USD on January 1st, 2022.
+This will return the exchange rate for EUR on April 21st, 2022.
