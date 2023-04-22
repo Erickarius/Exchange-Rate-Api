@@ -20,6 +20,7 @@ Clone the repository:
 
 `bash:
 git clone https://github.com/Erickarius/Exchange-Rate-Api.git`
+
 `bash: 
 cd exchange-rate-api`
 
